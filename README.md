@@ -1,1 +1,1 @@
-# Dogs-and-Cats
+# Dogs-and-Cats Image Predictor 
